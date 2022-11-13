@@ -20,6 +20,11 @@ body {
     text-align: center;
 }
 
+.dice {
+    margin-bottom: 25%;
+    font-size: 6em;
+}
+
 .blockr {
     width: 50%;
     height: 50%;
