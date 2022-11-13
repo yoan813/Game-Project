@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: #FFF9;
+}
+
+#new-game {
+    text-align: center;
+}
+
+#body, #round {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.player1,.dice, .player2, .round1, .menu, .round2 {
+    width: 25%;
+    height: 200px;
+    text-align: center;
+}
+
+.blockr {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    margin-left: 25%;
+    margin-right: 25%;
+}
