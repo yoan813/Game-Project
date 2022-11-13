@@ -29,7 +29,7 @@ if (lancer == 1) {
 } else if (lancer == 6) {
     dice.innerHTML = "&#9861";
 } else {
-    window.alert("Une erreur c'est produite !")
+   alert("Une erreur c'est produite !")
 };
 
 console.log(lancer);
