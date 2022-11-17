@@ -21,6 +21,10 @@ body {
     text-align: center;
 }
 
+#play1, #play2, #score1, #score2 {
+    font-size: 25px;
+}
+
 .dice {
     margin-bottom: 25%;
     font-size: 6em;
